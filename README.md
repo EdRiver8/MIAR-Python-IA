@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Máster - Notas de Clase
+`# Máster - Notas de Clase
 
 ## Estructura del Proyecto
 
@@ -196,7 +195,6 @@ jupyter notebook
 
 - [ ] Configurar entorno base
 - [ ] Establecer estructura de carpetas
-- [ ] Crear plantillas para notas de clase
-=======
+- [ ] # Crear plantillas para notas de clase
+
 # 01_MIAR_OCT25
->>>>>>> a60a64ecd2123c34362b4878f0948bdc5d49a06b
